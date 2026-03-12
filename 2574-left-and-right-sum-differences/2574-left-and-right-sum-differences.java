@@ -14,12 +14,7 @@ class Solution {
         int answer[] = new int[n];
         int ans;
         for(int i =0;i<n;i++){
-            ans = leftSum[i] - rightSum[i];
-            if(ans<0){
-                answer[i] = -1*ans;
-            }else{
-                answer[i] = ans;
-            }
+            answer[i] = Math.abs(leftSum[i]-rightSum[i]);
         }
         return answer;
     }
