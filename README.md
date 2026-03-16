@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0136-single-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -53,5 +54,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
