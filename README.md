@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -40,11 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
