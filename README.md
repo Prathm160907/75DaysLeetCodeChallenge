@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 <!---LeetCode Topics End-->
