@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
