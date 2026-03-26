@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
+| [0202-happy-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [3516-find-closest-person](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3516-find-closest-person/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Prefix Sum
@@ -98,5 +100,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
