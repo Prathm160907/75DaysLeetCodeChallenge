@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0231-power-of-two/) | Easy |
 | [3516-find-closest-person](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3516-find-closest-person/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Prefix Sum
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -119,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
