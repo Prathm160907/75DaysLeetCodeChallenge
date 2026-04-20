@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
@@ -114,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
