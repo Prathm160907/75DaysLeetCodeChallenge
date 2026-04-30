@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0551-student-attendance-record-i/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
