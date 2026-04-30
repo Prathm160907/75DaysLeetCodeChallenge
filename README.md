@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0231-power-of-two/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3516-find-closest-person](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3516-find-closest-person/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Prefix Sum
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
