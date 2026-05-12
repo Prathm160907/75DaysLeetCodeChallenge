@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
