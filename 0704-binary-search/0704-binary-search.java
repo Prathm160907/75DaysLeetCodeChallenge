@@ -3,7 +3,7 @@ class Solution {
         if(l>h){
             return -1;
         }
-        int m = (l+h)/2;
+        int m = l + (h-l)/2;
         if(nums[m]==target){
             return m;
         }else if(nums[m]<target){
