@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
