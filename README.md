@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
+| [0056-merge-intervals](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
