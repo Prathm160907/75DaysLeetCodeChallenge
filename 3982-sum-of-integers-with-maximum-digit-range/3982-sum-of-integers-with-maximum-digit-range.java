@@ -2,15 +2,14 @@ class Solution {
     public int maxDigitRange(int[] nums) {
         int n = nums.length;
         int mdg = Integer.MIN_VALUE;
-        HashMap <Integer,Integer> map = new HashMap <>();
+        int sum =0;
+
         for(int i =0;i<n;i++){
             int dg = digran(nums[i]);
-            mdg = Math.max(mdg,dg);
-            map.put(nums[i],dg);
-        }
-        int sum =0;
-        for(int i=0;i<n;i++){
-            if(map.get(nums[i])==mdg){
+            if(dg>mdg){
+                mdg = dg;
+                sum = nums[i];
+            }else if(dg==mdg){
                 sum += nums[i];
             }
         }
