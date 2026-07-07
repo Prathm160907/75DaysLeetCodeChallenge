@@ -1,33 +1,26 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        long org = n;
-
-        long N = 0;
-        long l;
+        long x = 0;
         while(n!=0){
-            l = n%10;
+            int l = n%10;
             if(l!=0){
-                N = N*10 + l;
+                x = x*10+l;
             }
-            n /=10;
+            n/=10;
         }
-
-        long N2 = N;
-
         long rev = 0;
-        while(N!=0){
-            l = N%10;
-            rev = rev*10 + l;
-            N /= 10;
+        while(x!=0){
+            long l = x%10;
+            rev = rev*10+l;
+            x/=10;
         }
-
-        long sum = 0;
-        while(N2 != 0){
-            l = N2%10;
-            sum += l;
-            N2 /= 10;
+        long sum =0;
+        long X = rev;
+        while(rev!=0){
+            long l = rev%10;
+            sum+= l;
+            rev /= 10;
         }
-
-        return sum*rev;
+        return sum*X;
     }
 }
