@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1470-shuffle-the-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
