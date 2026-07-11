@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3866-first-unique-even-element/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
@@ -168,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3866-first-unique-even-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3866-first-unique-even-element/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 <!---LeetCode Topics End-->
