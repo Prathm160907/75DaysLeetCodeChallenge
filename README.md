@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3798-largest-even-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3798-largest-even-number/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
@@ -182,4 +183,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
