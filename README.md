@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3798-largest-even-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3798-largest-even-number/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
