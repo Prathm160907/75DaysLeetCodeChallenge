@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1323-maximum-69-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1323-maximum-69-number/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
@@ -194,5 +195,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
