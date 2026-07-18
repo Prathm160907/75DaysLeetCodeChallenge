@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1470-shuffle-the-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1323-maximum-69-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1323-maximum-69-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3516-find-closest-person](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3516-find-closest-person/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -204,4 +206,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
