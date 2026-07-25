@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3516-find-closest-person](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3516-find-closest-person/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
