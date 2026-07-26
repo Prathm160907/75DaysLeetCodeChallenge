@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0575-distribute-candies](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0575-distribute-candies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0860-lemonade-change/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1323-maximum-69-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1323-maximum-69-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
