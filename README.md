@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0860-lemonade-change/) | Easy |
+| [0877-stone-game](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1470-shuffle-the-array/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0877-stone-game](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [1323-maximum-69-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1323-maximum-69-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
+| [0877-stone-game](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
