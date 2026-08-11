@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3866-first-unique-even-element/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
