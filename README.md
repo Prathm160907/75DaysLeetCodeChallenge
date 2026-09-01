@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [1323-maximum-69-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1323-maximum-69-number/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3516-find-closest-person](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3516-find-closest-person/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0551-student-attendance-record-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3798-largest-even-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3798-largest-even-number/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
