@@ -242,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
