@@ -250,4 +250,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0182-duplicate-emails/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
