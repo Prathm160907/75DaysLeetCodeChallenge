@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0986-interval-list-intersections](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0986-interval-list-intersections/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1470-shuffle-the-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0986-interval-list-intersections](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0986-interval-list-intersections/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Enumeration
@@ -289,4 +291,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
