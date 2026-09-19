@@ -20,19 +20,20 @@ class Solution {
             if (start <= end) {
                 ans.add(Arrays.asList(start, end));
             }
-            
+
             if (e1 < e2) {
                 i++;
             } else {
                 j++;
             }
         }
-        int [][] l = new int[ans.size()][2];
-        for(int p =0;p<ans.size();p++){
-            for(int q=0;q<2;q++){
-                l[p][q] = ans.get(p).get(q);
-            }
-        }
-        return l;
+        // int [][] l = new int[ans.size()][2];
+        // for(int p =0;p<ans.size();p++){
+        //     for(int q=0;q<2;q++){
+        //         l[p][q] = ans.get(p).get(q);
+        //     }
+        // }
+        return ans.stream().map(row->
+                            row.stream().mapToInt(Integer::intValue).toArray()).toArray(int[][]::new);
     }
 }
