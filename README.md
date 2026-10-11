@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
