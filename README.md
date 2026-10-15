@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2103-rings-and-rods](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2103-rings-and-rods/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3866-first-unique-even-element/) | Easy |
@@ -302,4 +304,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0986-interval-list-intersections/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
