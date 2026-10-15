@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3866-first-unique-even-element/) | Easy |
+| [3941-password-strength](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3941-password-strength/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3798-largest-even-number](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3798-largest-even-number/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3941-password-strength](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3941-password-strength/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
