@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3866-first-unique-even-element/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/0389-find-the-difference/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
