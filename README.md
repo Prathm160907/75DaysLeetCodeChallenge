@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3866-first-unique-even-element/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Prathm160907/75DaysLeetCodeChallenge/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Prefix Sum
